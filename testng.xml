@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WNS Test Suite">
+    <test preserve-order ="true"  name="C:/Project/WNS_MoneyCorp_Pankhuri">
+        <classes>
+                <class name="MoneyCorpTest"/>
+        </classes>
+    </test>
+</suite>
