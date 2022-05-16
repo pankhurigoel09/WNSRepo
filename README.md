@@ -11,5 +11,6 @@ Question 2
 
 #################################
 Code Setup 
-Setup Java_Home in environment variable, Java 8 is used in current Project.
-Setup Maven_Home variable 
+
+1.Setup Java_Home in environment variable, Java 8 is used in current Project.
+2.Setup Maven_Home variable 
